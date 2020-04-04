@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">CovidApp</string>
+    <string name="faq_q1">How do I submit my work?</string>
+    <string name="faq_a1">You can submit your projects on our portal: c2c.acmvit.in/projects</string>
+
+    <string name="faq_q2">Who will own the Intellectual Property Rights of the product developed by my team?</string>
+    <string name="faq_a2">The Intellectual Property Rights belong solely to your team until your team decides to enter into an agreement with a third party company in which case the Intellectual Property Rights will be divided equally between the company(Party 1) and your team(Party 2).</string>
+
+    <string name="faq_q3">How many reviews will be there?</string>
+    <string name="faq_a3">here will be two elimination rounds - On 8th and 9th respectively. The top 6 teams will get a chance to present their hack in the final Expo.</string>
+
+    <string name="faq_q4">What is the weightage of each review?</string>
+    <string name="faq_a4">For the 1st review we will make note of your chosen track with understanding and innovation you have shown related to the chosen problem statement.
+The 2nd review is a technical review where you will be judged based on your implementation.</string>
+
+    <string name="faq_q5">Will I get food?</string>
+    <string name="faq_a5">Yes you will get loads of yummy food to fill your bellies with!</string>
 </resources>
