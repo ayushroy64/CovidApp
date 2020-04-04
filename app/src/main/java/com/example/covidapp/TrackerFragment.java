@@ -34,7 +34,7 @@ public class TrackerFragment extends Fragment {
         WebViewClientImpl webViewClient = new WebViewClientImpl(this);*/
 
 
-        webView.loadUrl("https://infographics.channelnewsasia.com/covid-19/map.html");
+        webView.loadUrl("https://www.bing.com/covid");
 
 
         return view;

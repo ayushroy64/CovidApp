@@ -24,8 +24,10 @@ public class SplashScreen extends Activity {
         center_text = (TextView) findViewById(R.id.center_text);
         splash_text = (TextView) findViewById(R.id.splash_text);
 
+
         setFadeAnimation(app_img);
         setFadeAnimation(center_text);
+        setFadeAnimation(splash_text);
 
         Thread timer = new Thread() {
             public void run() {

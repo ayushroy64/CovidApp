@@ -81,6 +81,10 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
             case R.id.navigation_tracker:
                 fragment = new TrackerFragment();
                 break;
+
+            case R.id.navigation_donation:
+                fragment = new DonateFragment();
+                break;
         }
 
         return loadFragment(fragment);
